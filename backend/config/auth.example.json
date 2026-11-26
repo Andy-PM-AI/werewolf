@@ -1,0 +1,10 @@
+{
+  "invite_codes": ["WOLF-CHANGE-ME"],
+  "secret": "replace-with-openssl-rand-hex-32",
+  "session_days": 30,
+  "code_ttl_seconds": 600,
+  "resend_seconds": 60,
+  "max_verify_attempts": 6,
+  "cookie_name": "werewolf_session",
+  "cookie_secure": false
+}

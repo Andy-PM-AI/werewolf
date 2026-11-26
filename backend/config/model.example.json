@@ -1,0 +1,9 @@
+{
+  "provider": "deepseek",
+  "base_url": "https://api.deepseek.com",
+  "model": "deepseek-flash",
+  "api_key": "replace-me",
+  "audiencelib_base_url": "https://audiencelib.lifecontext.ai",
+  "audiencelib_api_key": "replace-me",
+  "timeout_seconds": 180
+}

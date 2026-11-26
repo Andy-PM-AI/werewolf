@@ -1,0 +1,11 @@
+{
+  "host": "smtp.example.com",
+  "port": 465,
+  "use_ssl": true,
+  "user": "notifications@example.com",
+  "password": "replace-me",
+  "from": "notifications@example.com",
+  "from_name": "人格狼人杀实验室",
+  "timeout_seconds": 15,
+  "dry_run": true
+}

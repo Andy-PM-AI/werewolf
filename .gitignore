@@ -1,0 +1,25 @@
+# secrets
+backend/config/model.json
+backend/config/*.local.json
+
+# runtime
+.run/
+backend/data/
+backend/__pycache__/
+**/__pycache__/
+*.pyc
+.pytest_cache/
+
+# frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.run/
+*.tsbuildinfo
+
+# local
+.DS_Store
+
+# auth secrets
+backend/config/auth.json
+backend/config/smtp.json
+backend/data/outbox/
